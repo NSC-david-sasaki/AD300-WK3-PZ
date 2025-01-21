@@ -1,7 +1,9 @@
-AD300-WK3-PZ
+# AD300-WK3-PZ
 
+## Background 
 This project implements the Animal class to show polymorphism with overloading
 
+## Building
 This project uses the Gradle build system.
 
 `./gradlew build`
@@ -10,6 +12,6 @@ This project uses the Gradle build system.
 
 `./gradlew test`
 
-Dependencies
+## Dependencies
 - Gradle 8.12
 - Junit 5.11.4
